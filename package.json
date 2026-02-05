@@ -1,0 +1,24 @@
+{
+  "name": "isms-automation-tool",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Automated ISMS Tool for ISO 27001 Compliance",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "lucide-react": "^0.263.1",
+    "papaparse": "^5.4.1",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "@vitejs/plugin-react": "^4.0.0",
+    "vite": "^4.3.9"
+  }
+}
